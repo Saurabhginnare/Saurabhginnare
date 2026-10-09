@@ -1,52 +1,84 @@
 # Hi, I'm Saurabh Ginnare 👋
 
-### Python Backend Developer | Django | Django REST Framework
+### Python Backend Developer | Django REST Framework | PostgreSQL | React.js
 
-I'm a Python Backend Developer focused on building reliable backend applications, REST APIs, and database-driven systems.
+I'm a Software Engineer with professional experience building and maintaining production applications using Python, Django, Django REST Framework, PostgreSQL, and React.js.
 
-My experience includes backend development, API integration, authentication and authorization, workflow automation, and database operations.
+My work focuses on backend engineering, REST API development, enterprise workflow automation, authentication and authorization, database optimization, and third-party system integrations.
+
+I enjoy solving real-world engineering problems and building secure, maintainable, and reliable applications.
 
 ## 🛠️ Technical Skills
 
-* **Languages:** Python, SQL, JavaScript
-* **Backend:** Django, Django REST Framework, REST APIs
-* **Database:** PostgreSQL, MySQL
-* **Security:** Authentication, Authorization, RBAC
-* **Tools:** Git, GitHub, Postman
-* **Frontend:** React.js
+**Languages**
 
-## 🚀 Featured Projects
+* Python, JavaScript, SQL, HTML, CSS
 
-### 1. PG-Circle
+**Backend Development**
 
-A project focused on solving a practical problem through software development.
+* Django, Django REST Framework
+* REST API Design and Integration
+* JWT Authentication and Session Management
+* Role-Based Access Control (RBAC)
+* Request Validation and Workflow Automation
 
-[View Repository](https://github.com/Saurabhginnare/PG-Circle)
+**Databases & Performance**
 
-### 2. Spam SMS Detection
+* PostgreSQL, MySQL, Redis
+* Django ORM and Database Migrations
+* Query Optimization
 
-A machine learning project for classifying SMS messages as spam or legitimate.
+**Frontend**
 
-[View Repository](https://github.com/Saurabhginnare/spam_sms_application)
+* React.js
 
+**Tools**
+
+* Git, GitHub, Postman
 
 ## 💼 Professional Experience
 
-* Develop and maintain backend functionality using Python and Django.
-* Build and integrate REST APIs.
-* Work with relational databases and ORM operations.
-* Implement authentication, authorization, and application integrations.
-* Troubleshoot issues and improve code maintainability.
+**Software Engineer — Sagacity Software Pvt. Ltd.**
+*April 2025 – Present*
 
-## 📚 Currently Improving
+* Develop and maintain production REST APIs using Django REST Framework.
+* Implement request workflows, validation, authentication, and database operations.
+* Integrate third-party APIs to automate data mapping, synchronization, and business workflows.
+* Develop React.js features for dynamic forms, request actions, and status updates.
+* Troubleshoot production issues, support deployments, and improve backend logic.
 
+## 🚀 Featured Projects
+### 1. E-commerce Web Application
+
+**Tech Stack:** Python, Django, Django REST Framework, React.js, PostgreSQL, JWT
+
+* Developed a full-stack e-commerce application.
+* Implemented product catalog, user authentication, cart management, and order processing.
+* Integrated backend APIs with the frontend application.
+
+### 2. News Article Sentiment Analysis
+
+**Tech Stack:** Python, Scikit-learn, NumPy, Pandas, NLP
+
+* Developed a sentiment classification model for positive, negative, and neutral news articles.
+* Applied text preprocessing, tokenization, stopword removal, stemming, and TF-IDF vectorization.
+* Trained and evaluated Logistic Regression, Naive Bayes, and SVM models.
+* Used feature engineering and hyperparameter tuning to improve model performance.
+
+## 🎯 Current Focus
+* AI, Prompt Engineering, and Large Language Models (LLMs)
 * Advanced Django and Django REST Framework
-* SQL query optimization
-* Automated testing with pytest
-* Docker and CI/CD fundamentals
+* API design, testing, and maintainable backend architecture
+* PostgreSQL performance and query optimization
+* Secure authentication and authorization
+* Automated testing and reliable deployment practices
 
 ## 📫 Connect With Me
 
-* **LinkedIn:** [Connect with me](https://www.linkedin.com/in/saurabh-ginnare-8a1880214/)
+* **LinkedIn:** [Saurabh Ginnare](https://www.linkedin.com/in/saurabh-ginnare-8a1880214/)
 * **GitHub:** [Saurabhginnare](https://github.com/Saurabhginnare)
+* **Email:** [saurabhginnare7@gmail.com](mailto:saurabhginnare7@gmail.com)
 
+---
+
+*Building reliable backend systems, one feature at a time.*

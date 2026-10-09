@@ -78,7 +78,3 @@ I enjoy solving real-world engineering problems and building secure, maintainabl
 * **LinkedIn:** [Saurabh Ginnare](https://www.linkedin.com/in/saurabh-ginnare-8a1880214/)
 * **GitHub:** [Saurabhginnare](https://github.com/Saurabhginnare)
 * **Email:** [saurabhginnare7@gmail.com](mailto:saurabhginnare7@gmail.com)
-
----
-
-*Building reliable backend systems, one feature at a time.*
